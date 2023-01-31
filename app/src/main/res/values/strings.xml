@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Komunalka</string>
+    <string name="add_data">Add meter readings</string>
+    <string name="view_history">View history</string>
+    <string name="gas">Gas</string>
+    <string name="water">Water</string>
+    <string name="electricity">Electricity</string>
+    <string name="date">Date</string>
+    <string name="data">Write your metrics</string>
+    <string name="store">Store</string>
+    <string name="date1">date1</string>
+    <string name="row1meric">row1meric</string>
 </resources>

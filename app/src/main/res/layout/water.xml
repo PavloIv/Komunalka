@@ -9,10 +9,10 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="65dp"
-        android:layout_height="55dp"
+        android:layout_width="94dp"
+        android:layout_height="51dp"
         android:layout_marginTop="10dp"
-        android:text="@string/gas"
+        android:text="@string/water"
         android:textColor="@color/white"
         android:textSize="34sp"
         android:textStyle="italic"
